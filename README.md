@@ -12,3 +12,5 @@ eg: 有一个helper function：  onFormSubmit ()
 3.axios.get 返回一个promise 要么用.then 去resolve 要么用 async await
 
 4.render list 时候记得加key， 加在root element上。
+
+5.this.imageRef = React.createRef();
